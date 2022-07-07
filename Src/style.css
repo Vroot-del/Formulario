@@ -1,0 +1,13 @@
+.corpo{
+    background: darkslategrey;
+}
+
+#logo {
+    margin-top: 10px;
+    margin-left: 40%;
+}
+
+.required:after {
+    content:" *"; 
+    color: green;
+  }
